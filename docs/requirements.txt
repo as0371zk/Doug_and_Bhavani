@@ -1,1 +1,13 @@
-This is a test file.
+•	We are planning to build a Library Book Management System.
+•	We will be building a 3-tier system, but haven’t determined the platform (Bhavani’s laptop, Amazon AWS or C.S. server) or framework yet (HTML/PHP/MySQL or Java?).
+•	The following requirements have been identified:
+o	User can login to system via Internet browser.
+o	User can search for a book
+o	User can check-out a book (any location).
+o	User can check-in a book (any location).
+o	User can reserve a book (any location).
+o	User can  check the status of a book
+o	User can cancel book-reservation.
+o	User can check for overdue charges.
+o	User can manage their account.
+
